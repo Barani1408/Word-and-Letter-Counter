@@ -1,0 +1,23 @@
+.container{
+  background-color: lightgray;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+     
+.heading{
+  font-size: 27px;
+  margin: 20px 0;
+  color: black;
+}
+
+textarea{
+  width: 100%;
+  height: 300px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid black;
+  font-size: 25px;
+}
